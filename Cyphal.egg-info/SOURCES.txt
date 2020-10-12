@@ -1,0 +1,7 @@
+README.md
+setup.py
+Cyphal/__init__.py
+Cyphal.egg-info/PKG-INFO
+Cyphal.egg-info/SOURCES.txt
+Cyphal.egg-info/dependency_links.txt
+Cyphal.egg-info/top_level.txt
