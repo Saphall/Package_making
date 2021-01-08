@@ -1,4 +1,4 @@
-This this the example package  which can be exported and used as a site package in python.
+This this the example package made by me which can be installed and used in python.
 
 #### " pip install -i https://test.pypi.org/simple/ --no-deps Cyphal "
 
